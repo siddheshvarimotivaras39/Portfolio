@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/siddheshvari-motivaras-701056224',
   leetcode: "https://leetcode.com/u/siddheshvari/",
   devUsername: "siddheshvarimotivaras39",
-  resume: "https://drive.google.com/file/d/16ww3U8DP9MW4LXWe1RKiz9GO0MjOlhoR/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/14dAQlSHhkUpEp6OhJAHwlkAQdcEgX3u5/view?usp=sharing"
 }
